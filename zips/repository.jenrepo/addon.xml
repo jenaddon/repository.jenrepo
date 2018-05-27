@@ -8,7 +8,6 @@
             <info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/__zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/__zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/__zips/</datadir>
-            <hashes>false</hashes>
         </dir>
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
